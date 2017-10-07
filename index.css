@@ -1,0 +1,36 @@
+body {
+  color: #000000;
+  background-image: url("project-images/image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+nav-wrapper {
+  text-align: center;
+  length:"50%";
+  position: absolute;
+  left: auto;
+}
+h1 {
+  margin-left: :auto;
+  margin-right: auto;
+  margin-top: 25%;
+}
+brand-logo center {
+  font-family: 'Open Sans', sans-serif;
+}
+header, main, footer {
+     padding-left: 300px;
+   }
+   .box{
+     width: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: rgba(255, 255, 255, 1);
+     ;
+   }
+h1 {
+  color: #770019;
+}
