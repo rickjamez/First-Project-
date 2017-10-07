@@ -1,0 +1,61 @@
+body { color: #bff9ff;
+  background-image: url("http://cdn.wallpapersafari.com/44/92/Gg2lxV.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+  font-family: 'Lemonada', cursive;
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  background-color: #555;
+}
+
+h1 { color: #bff9ff;
+  text-align:center;
+  font-size: 30px;
+  font-family: 'Lemonada', cursive;
+}
+h5 { color: #bff9ff;
+  border: 1px solid #000;
+  border-style: hidden;
+  width:"50%";
+  length:"50%";
+  position: absolute;
+  top: 260px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+  padding: 10px;
+  font-size: 10px;
+  font-family: 'Lemonada', cursive;
+  text-align:center;
+}
+h6 {color: #bff9ff;
+  border: 1px solid #000;
+  border-style: hidden;
+  padding: 10px;
+  font-size: 10px;
+  font-family: 'Lemonada', cursive;
+  text-align:center;
+
+}
+.float-right {
+              float:right;
+
+}
+
+
+
+#logo {
+        font-size: 20px;
+        font-family: 'Lemonada', cursive;
+        text-align: center;
+}
+
+}
+#playlist,audio{background:#666;width:400px;padding:20px;text-align:center;}
+.active a{color:#5DB0E6;text-decoration:none;text-align:center;}
+li a{color:#eeeedd;background:#333;padding:5px;display:block;text-align:center;}
+li a:hover{text-decoration:none;text-align:center;}
